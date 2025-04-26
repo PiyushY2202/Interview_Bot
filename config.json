@@ -1,0 +1,20 @@
+{
+    "roles": [
+        "Software Engineer",
+        "Data Scientist",
+        "Product Manager",
+        "UX Designer",
+        "DevOps Engineer",
+        "Machine Learning Engineer"
+    ],
+    "domains": [
+        "Frontend",
+        "Backend",
+        "Full Stack",
+        "Mobile",
+        "Cloud",
+        "AI/ML",
+        "Web",
+        "Embedded Systems"
+    ]
+}
